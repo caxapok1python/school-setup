@@ -7,3 +7,4 @@ init:
 	echo "source ~/.peda/peda.py" >> ~/.gdbinit
 	sudo apt install -y python3 python python3-pip python3.9
 	sudo apt install -y build-essential
+	sudo dpkg -i kumir_2.1.0_amd64.deb
